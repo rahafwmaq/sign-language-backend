@@ -1,0 +1,152 @@
+{
+  "أ": {
+    "id": "1",
+    "arabic": "أ",
+    "english": "Alef"
+  },
+  "ع": {
+    "id": "2",
+    "arabic": "ع",
+    "english": "ayn"
+  },
+  "ب": {
+    "id": "3",
+    "arabic": "ب",
+    "english": "Ba"
+  },
+  "د": {
+    "id": "4",
+    "arabic": "د",
+    "english": "Dal"
+  },
+  "ض": {
+    "id": "5",
+    "arabic": "ض",
+    "english": "Dhad"
+  },
+  "ف": {
+    "id": "6",
+    "arabic": "ف",
+    "english": "Fa"
+  },
+  "غ": {
+    "id": "7",
+    "arabic": "غ",
+    "english": "Ghayn"
+  },
+  "ح": {
+    "id": "8",
+    "arabic": "ح",
+    "english": "Ha"
+  },
+  "ه": {
+    "id": "9",
+    "arabic": "ه",
+    "english": "He"
+  },
+  "ج": {
+    "id": "10",
+    "arabic": "ج",
+    "english": "Jiem"
+  },
+  "ك": {
+    "id": "11",
+    "arabic": "ك",
+    "english": "Kaf"
+  },
+  "خ": {
+    "id": "12",
+    "arabic": "خ",
+    "english": "Kha"
+  },
+  "لا": {
+    "id": "13",
+    "arabic": "لا",
+    "english": "La"
+  },
+  "ل": {
+    "id": "14",
+    "arabic": "ل",
+    "english": "Lam"
+  },
+  "م": {
+    "id": "15",
+    "arabic": "م",
+    "english": "Miem"
+  },
+  "ن": {
+    "id": "16",
+    "arabic": "ن",
+    "english": "Noon"
+  },
+  "ق": {
+    "id": "17",
+    "arabic": "ق",
+    "english": "Qaf"
+  },
+  "ر": {
+    "id": "18",
+    "arabic": "ر",
+    "english": "Ra"
+  },
+  "ص": {
+    "id": "19",
+    "arabic": "ص",
+    "english": "Sad"
+  },
+  "ش": {
+    "id": "20",
+    "arabic": "ش",
+    "english": "Shien"
+  },
+  "س": {
+    "id": "21",
+    "arabic": "س",
+    "english": "Sien"
+  },
+  "ة": {
+    "id": "22",
+    "arabic": "ة",
+    "english": "T"
+  },
+  "ت": {
+    "id": "23",
+    "arabic": "ت",
+    "english": "Ta"
+  },
+  "ط": {
+    "id": "24",
+    "arabic": "ط",
+    "english": "Tah"
+  },
+  "ث": {
+    "id": "25",
+    "arabic": "ث",
+    "english": "Tha"
+  },
+  "ظ": {
+    "id": "26",
+    "arabic": "ظ",
+    "english": "Thah"
+  },
+  "ذ": {
+    "id": "27",
+    "arabic": "ذ",
+    "english": "Thal"
+  },
+  "و": {
+    "id": "28",
+    "arabic": "و",
+    "english": "Waw"
+  },
+  "ي": {
+    "id": "29",
+    "arabic": "ي",
+    "english": "Ya"
+  },
+  "ز": {
+    "id": "30",
+    "arabic": "ز",
+    "english": "Zay"
+  }
+}

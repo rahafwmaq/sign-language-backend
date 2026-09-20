@@ -1,0 +1,182 @@
+[
+  {
+    "arabic": "أ",
+    "english": "Alef",
+    "folder": "alef",
+    "samples": 32
+  },
+  {
+    "arabic": "ع",
+    "english": "ayn",
+    "folder": "ayn",
+    "samples": 121
+  },
+  {
+    "arabic": "ب",
+    "english": "Ba",
+    "folder": "ba",
+    "samples": 36
+  },
+  {
+    "arabic": "د",
+    "english": "Dal",
+    "folder": "dal",
+    "samples": 34
+  },
+  {
+    "arabic": "ض",
+    "english": "Dhad",
+    "folder": "dhad",
+    "samples": 40
+  },
+  {
+    "arabic": "ف",
+    "english": "Fa",
+    "folder": "fa",
+    "samples": 43
+  },
+  {
+    "arabic": "غ",
+    "english": "Ghayn",
+    "folder": "ghayn",
+    "samples": 48
+  },
+  {
+    "arabic": "ح",
+    "english": "Ha",
+    "folder": "ha",
+    "samples": 70
+  },
+  {
+    "arabic": "ه",
+    "english": "He",
+    "folder": "he",
+    "samples": 51
+  },
+  {
+    "arabic": "ج",
+    "english": "Jiem",
+    "folder": "jiem",
+    "samples": 73
+  },
+  {
+    "arabic": "ك",
+    "english": "Kaf",
+    "folder": "kaf",
+    "samples": 47
+  },
+  {
+    "arabic": "خ",
+    "english": "Kha",
+    "folder": "kha",
+    "samples": 34
+  },
+  {
+    "arabic": "لا",
+    "english": "La",
+    "folder": "la",
+    "samples": 54
+  },
+  {
+    "arabic": "ل",
+    "english": "Lam",
+    "folder": "lam",
+    "samples": 47
+  },
+  {
+    "arabic": "م",
+    "english": "Miem",
+    "folder": "miem",
+    "samples": 43
+  },
+  {
+    "arabic": "ن",
+    "english": "Noon",
+    "folder": "noon",
+    "samples": 45
+  },
+  {
+    "arabic": "ق",
+    "english": "Qaf",
+    "folder": "qaf",
+    "samples": 55
+  },
+  {
+    "arabic": "ر",
+    "english": "Ra",
+    "folder": "ra",
+    "samples": 89
+  },
+  {
+    "arabic": "ص",
+    "english": "Sad",
+    "folder": "sad",
+    "samples": 64
+  },
+  {
+    "arabic": "ش",
+    "english": "Shien",
+    "folder": "shien",
+    "samples": 34
+  },
+  {
+    "arabic": "س",
+    "english": "Sien",
+    "folder": "sien",
+    "samples": 37
+  },
+  {
+    "arabic": "ة",
+    "english": "T",
+    "folder": "t",
+    "samples": 100
+  },
+  {
+    "arabic": "ت",
+    "english": "Ta",
+    "folder": "ta",
+    "samples": 35
+  },
+  {
+    "arabic": "ط",
+    "english": "Tah",
+    "folder": "tah",
+    "samples": 36
+  },
+  {
+    "arabic": "ث",
+    "english": "Tha",
+    "folder": "tha",
+    "samples": 38
+  },
+  {
+    "arabic": "ظ",
+    "english": "Thah",
+    "folder": "thah",
+    "samples": 38
+  },
+  {
+    "arabic": "ذ",
+    "english": "Thal",
+    "folder": "thal",
+    "samples": 41
+  },
+  {
+    "arabic": "و",
+    "english": "Waw",
+    "folder": "waw",
+    "samples": 52
+  },
+  {
+    "arabic": "ي",
+    "english": "Ya",
+    "folder": "ya",
+    "samples": 83
+  },
+  {
+    "arabic": "ز",
+    "english": "Zay",
+    "folder": "zay",
+    "samples": 37
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "model_id": "299b01b7-75c7-4536-8e9e-4055366a89b5",
+  "model_status": "ready",
+  "model_version": "v1.41",
+  "dataset_version": 42,
+  "classes": 30,
+  "samples": 1557,
+  "valid_samples": 1509,
+  "skipped_samples": 48,
+  "accuracy": 94.04,
+  "training_time_seconds": 39.73,
+  "model_size_mb": 31.47,
+  "model_path": "/Users/rahafalqahtani/Desktop/sign_ai/services/models/image_sign_model.pkl",
+  "trained_at": "2026-09-14T06:42:21.869432+00:00"
+}
