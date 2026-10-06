@@ -9,25 +9,48 @@ class AppPaths:
 
 
 class ImagePaths:
-    dataset_dir = AppPaths.uploads_dir / "image_dataset_v2"
+    # dataset_dir = AppPaths.uploads_dir / "image_dataset_v2"
+
+    # model_path = (
+    #     AppPaths.models_dir
+    #     / "image_v2"
+    #     / "image_sign_model.pkl"
+    # )
+
+    # labels_path = (
+    #     AppPaths.models_dir
+    #     / "image_v2"
+    #     / "image_labels_map.json"
+    # )
+
+    # metadata_path = (
+    #     AppPaths.models_dir
+    #     / "image_v2"
+    #     / "image_training_metadata.json"
+    # )
+
+    dataset_dir = AppPaths.uploads_dir / "image_dataset_v1"
 
     model_path = (
         AppPaths.models_dir
-        / "image_v2"
+        / "image_v1"
         / "image_sign_model.pkl"
     )
 
     labels_path = (
         AppPaths.models_dir
-        / "image_v2"
+        / "image_v1"
         / "image_labels_map.json"
     )
 
     metadata_path = (
         AppPaths.models_dir
-        / "image_v2"
+        / "image_v1"
         / "image_training_metadata.json"
     )
+
+    
+
 
 
 class VideoPaths:

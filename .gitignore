@@ -1,0 +1,24 @@
+# Python virtual environments
+.venv/
+**/.venv/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary uploads
+uploads/
+**/uploads/
+
+# Environment variables
+.env
+**/.env
