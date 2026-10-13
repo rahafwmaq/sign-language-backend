@@ -14,6 +14,7 @@ class ImagePaths:
     # IMAGE V2 (ACTIVE)
     # =========================
     dataset_dir = AppPaths.uploads_dir / "image_dataset_v2"
+    dataset_dir = AppPaths.uploads_dir / "image_dataset_v2"
 
     model_path = (
         AppPaths.models_dir
@@ -32,6 +33,7 @@ class ImagePaths:
         / "image_v2"
         / "image_training_metadata.json"
     )
+
 
     # =========================
     # IMAGE V1 (ACTIVE)
@@ -56,6 +58,8 @@ class ImagePaths:
     #     / "image_v1"
     #     / "image_training_metadata.json"
     # )
+    
+
 
 
 class VideoPaths:

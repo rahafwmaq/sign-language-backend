@@ -1,13 +1,29 @@
 # Private datasets
 services/uploads/
+uploads/
+**/uploads/
 
-# Local trained models (optional)
-# services/models/**/*.pkl
+# Python virtual environments
+.venv/
+**/.venv/
+venv/
 
-# Environment
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables
 .env
 .env.*
-.venv/
-__pycache__/
-*.pyc
-.DS_Store
+**/.env
+**/.env.*
