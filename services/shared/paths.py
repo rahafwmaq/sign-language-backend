@@ -9,6 +9,10 @@ class AppPaths:
 
 
 class ImagePaths:
+
+    # =========================
+    # IMAGE V2 (ACTIVE)
+    # =========================
     dataset_dir = AppPaths.uploads_dir / "image_dataset_v2"
 
     model_path = (
@@ -29,10 +33,76 @@ class ImagePaths:
         / "image_training_metadata.json"
     )
 
+    # =========================
+    # IMAGE V1 (ACTIVE)
+    # =========================
+
+    # dataset_dir = AppPaths.uploads_dir / "image_dataset_v1"
+
+    # model_path = (
+    #     AppPaths.models_dir
+    #     / "image_v1"
+    #     / "image_sign_model.pkl"
+    # )
+
+    # labels_path = (
+    #     AppPaths.models_dir
+    #     / "image_v1"
+    #     / "image_labels_map.json"
+    # )
+
+    # metadata_path = (
+    #     AppPaths.models_dir
+    #     / "image_v1"
+    #     / "image_training_metadata.json"
+    # )
+
 
 class VideoPaths:
-    dataset_dir = AppPaths.uploads_dir / "video_dataset"
+    # =========================
+    # VIDEO V2 (ACTIVE)
+    # =========================
 
-    model_path = AppPaths.models_dir / "video_sign_model.pkl"
-    labels_path = AppPaths.models_dir / "video_labels_map.json"
-    metadata_path = AppPaths.models_dir / "video_training_metadata.json"
+    dataset_dir = AppPaths.uploads_dir / "video_dataset_v2"
+
+    model_path = (
+        AppPaths.models_dir
+        / "video_v2"
+        / "video_sign_model.pkl"
+    )
+
+    labels_path = (
+        AppPaths.models_dir
+        / "video_v2"
+        / "video_labels_map.json"
+    )
+
+    metadata_path = (
+        AppPaths.models_dir
+        / "video_v2"
+        / "video_training_metadata.json"
+    )
+
+    # =========================
+    # VIDEO V1 (OLD)
+    # =========================
+
+    # dataset_dir_v1 = AppPaths.uploads_dir / "video_dataset_v1"
+
+    # model_path_v1 = (
+    #     AppPaths.models_dir
+    #     / "video_v1"
+    #     / "video_sign_model.pkl"
+    # )
+
+    # labels_path_v1 = (
+    #     AppPaths.models_dir
+    #     / "video_v1"
+    #     / "video_labels_map.json"
+    # )
+
+    # metadata_path_v1 = (
+    #     AppPaths.models_dir
+    #     / "video_v1"
+    #     / "video_training_metadata.json"
+    # )

@@ -1,0 +1,13 @@
+# Private datasets
+services/uploads/
+
+# Local trained models (optional)
+# services/models/**/*.pkl
+
+# Environment
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

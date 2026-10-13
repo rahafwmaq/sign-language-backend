@@ -1,0 +1,142 @@
+{
+  "a_statement": {
+    "arabic": "كشف",
+    "english": "a statement",
+    "folder": "a_statement"
+  },
+  "account": {
+    "arabic": "حساب",
+    "english": "account",
+    "folder": "account"
+  },
+  "bank": {
+    "arabic": "البنك",
+    "english": "Bank",
+    "folder": "bank"
+  },
+  "benefits": {
+    "arabic": "منفعة",
+    "english": "Benefits",
+    "folder": "benefits"
+  },
+  "card": {
+    "arabic": "بطاقة",
+    "english": "card",
+    "folder": "card"
+  },
+  "certificate": {
+    "arabic": "شهاده",
+    "english": "certificate",
+    "folder": "certificate"
+  },
+  "contract": {
+    "arabic": "عقد",
+    "english": "contract",
+    "folder": "contract"
+  },
+  "contribution": {
+    "arabic": "اشتراكات",
+    "english": "contribution",
+    "folder": "contribution"
+  },
+  "declaration": {
+    "arabic": "بيان",
+    "english": "declaration",
+    "folder": "declaration"
+  },
+  "details": {
+    "arabic": "تفاصيل",
+    "english": "details",
+    "folder": "details"
+  },
+  "document": {
+    "arabic": "مستند",
+    "english": "Document",
+    "folder": "document"
+  },
+  "exclusion": {
+    "arabic": "استبعاد",
+    "english": "Exclusion",
+    "folder": "exclusion"
+  },
+  "exit": {
+    "arabic": "خروج",
+    "english": "exit",
+    "folder": "exit"
+  },
+  "expertise": {
+    "arabic": "خبرة",
+    "english": "expertise",
+    "folder": "expertise"
+  },
+  "extraction": {
+    "arabic": "استخراج",
+    "english": "Extraction",
+    "folder": "extraction"
+  },
+  "fixing": {
+    "arabic": "تثبيت",
+    "english": "fixing",
+    "folder": "fixing"
+  },
+  "guarantee": {
+    "arabic": "الضمان",
+    "english": "guarantee",
+    "folder": "guarantee"
+  },
+  "help": {
+    "arabic": "مساعده",
+    "english": "Help",
+    "folder": "help"
+  },
+  "letter": {
+    "arabic": "خطاب",
+    "english": "letter",
+    "folder": "letter"
+  },
+  "period_time": {
+    "arabic": "مده الوقت",
+    "english": "period time",
+    "folder": "period_time"
+  },
+  "print": {
+    "arabic": "طباعة",
+    "english": "print",
+    "folder": "print"
+  },
+  "range": {
+    "arabic": "مدى",
+    "english": "range",
+    "folder": "range"
+  },
+  "release": {
+    "arabic": "إصدار",
+    "english": "Release",
+    "folder": "release"
+  },
+  "report": {
+    "arabic": "تقرير",
+    "english": "report",
+    "folder": "report"
+  },
+  "retired": {
+    "arabic": "متقاعد",
+    "english": "retired",
+    "folder": "retired"
+  },
+  "salary": {
+    "arabic": "الرواتب",
+    "english": "salary",
+    "folder": "salary"
+  },
+  "service": {
+    "arabic": "خدمة",
+    "english": "service",
+    "folder": "service"
+  },
+  "update": {
+    "arabic": "تعديل",
+    "english": "update",
+    "folder": "update"
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "model_id": "ead55cfc-1f6a-4e40-b83a-80f8359ba5ee",
+    "model_status": "ready",
+    "model_version": "v0.18",
+    "dataset_version": 18,
+    "classes": 28,
+    "samples": 96,
+    "valid_samples": 50,
+    "skipped_samples": 46,
+    "accuracy": 0.0,
+    "training_time_seconds": 250.11,
+    "model_size_mb": 4.04,
+    "model_path": "/Users/rahafalqahtani/Desktop/GOSI Projects/Gosi Sign LANG/sign_ai/services/models/video_sign_model.pkl",
+    "trained_at": "2026-10-07T11:00:12.534133+00:00"
+}
